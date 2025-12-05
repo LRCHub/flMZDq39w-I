@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Live is Beautiful",
+  "base_artist": "prink",
+  "createdAt": "2025-12-05T01:10:49.249675Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Live is Beautiful",
+      "artist": "prink",
+      "has_synced": false,
+      "path": "select/pl_01_Live_is_Beautiful_prink.txt"
+    }
+  ]
+}
